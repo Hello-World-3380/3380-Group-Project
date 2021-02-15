@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class HelloWorld {
+public class Main{
 
     public static List<SimulatedFolder> sortDirs = new ArrayList();
     public static String[] fakeDirectories = {"Documents", "Family Photos", "SchoolWork", "Tax Documents", "Games", "Pet Pictures", "Desktop", "System32"};
